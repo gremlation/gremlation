@@ -1,16 +1,15 @@
-## Hi there 👋
+# Gremlation: a generalist developer
 
-<!--
-**gremlation/gremlation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have 25 years of experience doing all kinds of development. I'm currently focused on generative AI, and I work frequently with Stable Diffusion and ComfyUI.
 
-Here are some ideas to get you started:
+I'm available for short-term and part-time contracts. If you need somebody to:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Develop custom ComfyUI nodes
+- Clean up or maintain existing nodes
+- Fix bugs
+- Build complex workflows
+- Review your code
+- Unfuck a mess
+- Spend a day a week sorting your shit out
+
+Send me an email `@proton.me` with the same username as here. Include a description of what you want, when you need it by, and what your budget is.
